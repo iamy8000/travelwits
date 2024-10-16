@@ -188,7 +188,7 @@ const Home = () => {
 		<Container maxWidth="lg" sx={{ padding: '22pt' }}>
 			<Grid container spacing={1}>
 				<Grid item xs={12}>
-					Hello this is yating&apos;s web!!!
+					Hello this is a testing website!!!
 				</Grid>
 				<Grid item xs={12} md={8}>
 					<SearchBar search={search} onSearchChange={handleSearchChange} filteredMovies={filteredMovies} />
